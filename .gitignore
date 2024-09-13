@@ -1,0 +1,31 @@
+# Ignore .env file
+.env
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore app data folders for Windows
+/chroma/
+/Outlook_Temp/
+
+# Ignore log files
+*.log
+
+# Ignore SQLite3 database files
+*.db
+*.sqlite
+*.sqlite3
+*.json
+*.html
+*.xml
+Jupyter Launch.bat
+
+# Ignore binary files
+*.bin
+
+# Ignore pickle files
+*.pkl
+*.pickle
+
+# Ignore Outlook email message files
+*.msg
