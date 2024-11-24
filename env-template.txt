@@ -1,2 +1,2 @@
-CHROMA_DB_PATH=C:\Users\...your path
-CHROMA_PERSIST_DIR=C:\Users\...your path
+CHROMA_DB_PATH=/chromadb
+CHROMA_PERSIST_DIR=/chromadb
